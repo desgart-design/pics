@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "flow",
+  "theme": "cardss",
   "css": "./custom.css",
   "footer": "desgart.design",
   "usage-stats": false
